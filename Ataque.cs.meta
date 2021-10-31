@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d80c21a26c6674440b64639c5c04db68
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - laser: {instanceID: 0}
+  - puntoDeDisparo: {instanceID: 0}
+  - efecto: {fileID: 1384849604685524, guid: eebb71c4c7d229742aea5dc7b1ef0da3, type: 3}
+  - sonidoAtaque: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
